@@ -1,2 +1,4 @@
 Gitの練習を開始します。
-r練習
+
+git add
+git commit
